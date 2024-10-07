@@ -1,0 +1,1 @@
+R and Python code were used to create GAMM models and a Random Forest Classifier model to determine the rate of pneumococcal spread in Blantyre, Malawi, and the human and bacterial characteristics that drive transmission.
